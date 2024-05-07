@@ -1,0 +1,12 @@
+{
+  "Token": "Bot Token",
+  "ClientID": "Bot ID ",
+  
+  "channelId": "channelId for J2C",
+  "userLimit": 4,
+  "nameFormat": "〔🎤〕",
+  "categoryId": "categoryId for J2C",
+  "bitrate": 96000,
+  "memberPerms": ["Connect", "ManageChannels", "ManageRoles", "MoveMembers"],
+  "everyonePerms": ["Connect", "Speak", "ViewChannel"]
+}
